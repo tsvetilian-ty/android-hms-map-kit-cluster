@@ -1,0 +1,3 @@
+rootProject.name='HuaweiMapKitCluster'
+include ':app'
+include ':hmsmapkitcluster'
