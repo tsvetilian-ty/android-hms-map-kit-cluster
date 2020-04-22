@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/tsvetilian-ty/android-hms-map-kit-cluster.svg)](https://jitpack.io/#tsvetilian-ty/android-hms-map-kit-cluster)
 [![License](https://img.shields.io/github/license/tsvetilian-ty/android-hms-map-kit-cluster.svg)](LICENSE.md)
 
-The library gives you the ability to integrate clusters in your app that uses [Huawei's Map Kit.](https://developer.huawei.com/consumer/en/hms/huawei-MapKit)
+Lightweight library that gives you the ability to integrate clusters in your app that uses [Huawei's Map Kit.](https://developer.huawei.com/consumer/en/hms/huawei-MapKit)
 
 ##### The code is based on [Google's map util clustering system](https://github.com/googlemaps/android-maps-utils)
 
@@ -25,4 +25,4 @@ The library gives you the ability to integrate clusters in your app that uses [H
 	        implementation 'com.github.tsvetilian-ty:android-hms-map-kit-cluster:{$version}'
 	}
     ```
-##### To check for different versions visit the [release page](https://github.com/tsvetilian-ty/android-hms-map-kit-cluster/releases)
+##### To check for different versions visit the [release page](https://github.com/tsvetilian-ty/android-hms-map-kit-cluster/releases) or download as AAR file
