@@ -18,7 +18,6 @@ package com.github.tsvetilian.ty.hmsmapkitcluster.ui;
  */
 
 import android.content.Context;
-import android.content.res.Resources;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.ColorFilter;
@@ -41,8 +40,8 @@ class BubbleDrawable extends Drawable {
     private int mColor = Color.WHITE;
 
     public BubbleDrawable(Context context) {
-        mMask = ContextCompat.getDrawable(context, R.drawable.amu_bubble_mask);
-        mShadow = ContextCompat.getDrawable(context, R.drawable.amu_bubble_shadow);
+        mMask = ContextCompat.getDrawable(context, R.drawable.hms_amu_bubble_mask);
+        mShadow = ContextCompat.getDrawable(context, R.drawable.hms_amu_bubble_shadow);
     }
 
     public void setColor(int color) {
