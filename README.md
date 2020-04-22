@@ -25,5 +25,4 @@ Lightweight library that gives you the ability to integrate clusters in your app
 	        implementation 'com.github.tsvetilian-ty:android-hms-map-kit-cluster:{$version}'
 	}
     ```
-##### To check for different versions or to download as AAR file
- visit the [release page](https://github.com/tsvetilian-ty/android-hms-map-kit-cluster/releases)
+##### To check for different versions or to download as AAR file visit the [release page](https://github.com/tsvetilian-ty/android-hms-map-kit-cluster/releases)
